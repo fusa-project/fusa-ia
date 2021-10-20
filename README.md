@@ -20,5 +20,5 @@ python -m ipykernel install --user --name fusa-tokyo --display-name fusa-tokyo
 
 ## Ejecución
 ```
-jupyter notebook utilities/Testing torch-serve FuSA.ipynb
+jupyter notebook utilities/Torch-serve FuSA from localfile.ipynb
 ```
